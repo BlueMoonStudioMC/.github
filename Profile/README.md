@@ -14,7 +14,7 @@ Hello 👋! Nice to meet you here. This is our organization... You can join our 
 
 ### Our Projects
 
-🪴 We are currently working on a **Minecraft Fabric Client** and a **Minecraft Fabric Client Launcher**
+🪴 We are currently working on a **[Minecraft Fabric Client](https://github.com/BlueMoonStudioMC/BMCFabric)** and a **Minecraft Fabric Client Launcher**
 
 ### Reach us
 
