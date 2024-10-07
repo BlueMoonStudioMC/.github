@@ -4,13 +4,14 @@ Hello 👋! Nice to meet you here. This is our organization... You can join our 
 
 ### Special Thanks to our Collaborators
 
-- [Larrox](https://github.com/copyandbuild)
+- [Blue_of_Phoenix_](https://github.com/BlueofPhoenix)
+- [RadFlunder](https://github.com/RadFlunder)
 - [ByteSyntaxx](https://github.com/ByteSyntaxx)
 - [hennycraft](https://github.com/Hennycraft52)
 - [Conner](https://github.com/devTwitchiger)
 - [mama9775](https://github.com/mama9775)
 - [Idiotischer](https://github.com/Idiotischer)
-- [Blue_of_Phoenix_](https://github.com/BlueofPhoenix)
+
 
 ### Our Projects
 
