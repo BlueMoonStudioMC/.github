@@ -11,6 +11,7 @@ Hello 👋! Nice to meet you here. This is our organization... You can join our 
 - [Conner](https://github.com/devTwitchiger)
 - [mama9775](https://github.com/mama9775)
 - [Idiotischer](https://github.com/Idiotischer)
+- [EchoTheDeveloper[(https://github.com/EchoTheDeveloper)
 
 
 ### Our Projects
